@@ -1,4 +1,4 @@
-package com.gonulcie.assignment.q2;
+package com.gonulcei.assignment.q2;
 
 import com.gonulcei.assignment.q2.util.UserUtil;
 
